@@ -62,8 +62,8 @@ public class Main {
 
         // ============================================================================================
 
-        String msg = tc.deletebyid(11);
-        System.out.println(msg);
+        // String msg = tc.deletebyid(11);
+        // System.out.println(msg);
         
     }
 }
